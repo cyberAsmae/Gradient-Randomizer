@@ -1,2 +1,2 @@
 # Gradient-Randomizer
-Gradient Randomizer with HTML CSS and JAVASCRIPT 
+Gradient Color Randomizer with HTML CSS and JAVASCRIPT 
