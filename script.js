@@ -1,16 +1,16 @@
 if(document.body){
   
-  var background = document.getElementById('gradient');
-  var gradientText = document.getElementById('gradient-text');
+  let background = document.getElementById('gradient');
+  let gradientText = document.getElementById('gradient-text');
   
   function setRandomGradient(){
     
-    var colorOne = {
+    let colorOne = {
       R: Math.floor(Math.random() * 255),
       G: Math.floor(Math.random() * 255),
       B: Math.floor(Math.random() * 255)
     };
-    var colorTwo = {
+    let colorTwo = {
       R: Math.floor(Math.random() * 255),
       G: Math.floor(Math.random() * 255),
       B: Math.floor(Math.random() * 255)
